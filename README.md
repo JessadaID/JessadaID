@@ -1,7 +1,7 @@
 # 👋 สวัสดีครับ ผมชื่อเจษฎา
 
 นักศึกษาวิศวกรรมคอมพิวเตอร์ @ มทร.ล้านนา (RMUTL)  
-สนใจด้าน Full-stack Development, Firebase และ Open Source 💻
+สนใจด้าน Full-stack Development, Firebase 💻
 
 ## 🔧 เทคโนโลยีที่ถนัด
 - Svelte / SvelteKit
@@ -13,12 +13,11 @@
 ![JessadaID's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessadaID&show_icons=true&theme=tokyonight)
 
 ## 📫 ติดต่อผมได้ที่
-- Facebook: [Jessada ID](https://facebook.com/yourprofile)
+- Facebook: [Jessada ID](https://web.facebook.com/ju.st.774231)
 - GitHub: [@JessadaID](https://github.com/JessadaID)
 
 ```markdown
 ![Stats](https://github-readme-stats.vercel.app/api?username=JessadaID&show_icons=true&theme=gruvbox)
-
 ```
 
 ```markdown
