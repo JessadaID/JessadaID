@@ -16,14 +16,13 @@
 - Facebook: [Jessada ID](https://web.facebook.com/ju.st.774231)
 - GitHub: [@JessadaID](https://github.com/JessadaID)
 
-```markdown
-![Stats](https://github-readme-stats.vercel.app/api?username=JessadaID&show_icons=true&theme=gruvbox)
-```
+![JessadaID's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessadaID&show_icons=true&theme=tokyonight&count_private=true)
 
-```markdown
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessadaID&layout=compact&theme=gruvbox)
-```
 
-```markdown
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JessadaID)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessadaID&layout=compact&theme=tokyonight)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JessadaID&theme=tokyonight)](https://git.io/streak-stats)
+
+![visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/JessadaID/github&style=flat)
+
