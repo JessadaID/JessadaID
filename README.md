@@ -1,5 +1,7 @@
 # 👋 Hello I'm Jessada Boonta
-![Card](./Banner.png)
+<p align="center">
+  <img src="./Banner.png" alt="My Banner" width="800" />
+</p>
 ## 🔧 เทคโนโลยีที่ถนัด
 - Svelte / SvelteKit
 - Firebase (Auth, Firestore, Storage)
