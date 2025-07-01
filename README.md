@@ -1,5 +1,5 @@
 # 👋 Hello I'm Jessada Boonta
-![Card](./Card.jpg)
+![Card](./Jessada Boonta.jpg)
 ## 🔧 เทคโนโลยีที่ถนัด
 - Svelte / SvelteKit
 - Firebase (Auth, Firestore, Storage)
