@@ -1,6 +1,6 @@
 # 👋 Hello I'm Jessada Boonta
 <p align="center">
-  <img src="./Banner.png" alt="My Banner" width="800" />
+  <img src="./Banner-github.png" alt="My Banner" width="800" />
 </p>
 
 ## 📊 สถิติ GitHub
